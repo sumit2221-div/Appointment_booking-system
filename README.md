@@ -93,7 +93,7 @@ Run tests:
 
 npm test
 
-✅ Example Flow
+ Example Flow
 
 Professor adds availability
 
@@ -103,8 +103,7 @@ Student can view their appointments
 
 Professor can cancel the appointment if needed
 
-👨‍💻 Author
+ Author
 
 Sumit Sonar
-📧 Email: [your-email@example.com
-]
+
