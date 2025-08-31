@@ -61,12 +61,7 @@ It allows students to book appointments with professors, and professors to manag
 
 ---
 
-## 🔑 Authentication
 
-- Each request must include a **JWT token** in headers:  
-
-```http
-Authorization: Bearer <token>
 
 
 Getting Started
